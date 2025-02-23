@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Mayank-5362.github.io/react-weather-app",
+  "homepage": "https://Mayank-5362.github.io/weather-app",
   "name": "weather-app",
   "private": true,
   "version": "0.0.0",
@@ -11,7 +11,6 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
-
   },
   "dependencies": {
     "react": "^19.0.0",
